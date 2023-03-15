@@ -4,4 +4,3 @@ import 'tela_principal.dart';
 void main() {
   runApp(const TrucoApp());
 }
-
